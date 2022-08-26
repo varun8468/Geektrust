@@ -1,0 +1,28 @@
+.container{
+    width: 100%;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.time-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    background-color: #C0DBE2;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.btn-container{
+    width: 50vw;
+}
+
+.list-container{
+    display: flex;
+    justify-content: space-between;
+}
